@@ -156,7 +156,7 @@ a {
   gap: 2rem;
   align-items: end;
   min-height: 100svh;
-  padding: max(7.5rem, calc(var(--header-h) + 1.5rem)) 2rem 2rem;
+  padding: max(7.5rem, calc(var(--header-h) + 1.5rem)) 2rem 8rem;
 }
 
 .eyebrow,
@@ -320,7 +320,7 @@ h3 {
 .signal-band {
   position: relative;
   z-index: 3;
-  margin-top: -5.2rem;
+  margin-top: -2.2rem;
   padding: 1.1rem 2rem 0;
 }
 
